@@ -1,13 +1,17 @@
 # Endless Runner Game
 
-[![Unity](https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity)](https://unity.com/)
-[![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
-[![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f)](https://unity.com/)
-[![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.4/manual/index.html)
-[![Input System](https://img.shields.io/badge/Input%20System-Enabled-0ea5e9)](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/index.html)
-[![Repository](https://img.shields.io/badge/Repository-Open%20Source-16a34a)](https://github.com/)
+<p align="left">
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity" />
+	<img alt="C#" src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp" />
+	<img alt="Platform" src="https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f" />
+	<img alt="URP" src="https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6" />
+	<img alt="Input System" src="https://img.shields.io/badge/Input%20System-Enabled-0ea5e9" />
+	<img alt="Open Source" src="https://img.shields.io/badge/GitHub-Open%20Source-181717?logo=github" />
+</p>
 
-3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
+> A polished 3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
+
+---
 
 ## Table of Contents
 
@@ -27,13 +31,13 @@
 - [License](#license)
 - [Author](#author)
 
-## Project Overview
+## Overview
 
 **Endless Runner Game** is a 3D endless runner built in Unity where the player survives by switching lanes, jumping, and sliding to avoid obstacles while collecting coins. The game features a continuously spawning track, accelerating forward movement, audio feedback, and a simple menu-driven flow that is well suited for a clean portfolio presentation.
 
 The repository is structured as a lightweight Unity project with clear separation between gameplay scripts, assets, scenes, and project configuration. Core mechanics are handled through a small set of focused scripts, making the project easy to understand, extend, and showcase.
 
-## Repository Highlights
+## Repository Highlights ✨
 
 | Highlight | Details |
 | --- | --- |
@@ -43,7 +47,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Audio | Persistent audio manager with music and sound effects |
 | Build readiness | Configured for desktop and WebGL-friendly development |
 
-## Features
+## Features 🚀
 
 - 3D endless runner gameplay with automatic forward motion
 - Lane-based movement across three tracks
@@ -55,7 +59,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 - Persistent audio manager with background music and sound effects
 - UI built with TextMeshPro
 
-## Gameplay Mechanics
+## Gameplay Mechanics 🎮
 
 | Mechanic | Description |
 | --- | --- |
@@ -67,7 +71,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Obstacle collision | Hitting an obstacle ends the run, pauses time, and shows the game over panel. |
 | Endless track | New tiles spawn ahead of the player while older tiles are removed behind the camera. |
 
-## Technologies Used
+## Technologies Used 🛠️
 
 | Category | Stack |
 | --- | --- |
@@ -80,7 +84,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Scene Management | Unity SceneManager |
 | Build Targets | PC and WebGL-friendly setup |
 
-## Unity Version Compatibility
+## Unity Version Compatibility 🧩
 
 This project was created and validated with:
 
@@ -92,7 +96,7 @@ Recommended compatibility range:
 - **Best match:** Unity 6.4.x
 - **Likely compatible:** Other Unity 6 LTS / 6000.x builds with the same packages installed
 
-## Folder Structure
+## Folder Structure 📁
 
 | Folder | Purpose |
 | --- | --- |
@@ -111,7 +115,7 @@ Recommended compatibility range:
 | `Packages/` | Package manifest and dependency lock files |
 | `ProjectSettings/` | Unity project configuration files |
 
-## Scripts and Modules
+## Scripts and Modules 🧠
 
 | Script | Responsibility |
 | --- | --- |
@@ -124,7 +128,7 @@ Recommended compatibility range:
 | `CameraController.cs` | Smoothly follows the player along the Z axis |
 | `MainMenu.cs` | Loads the gameplay scene and exits the application |
 
-## Installation and Setup
+## Installation and Setup ⚙️
 
 1. Install **Unity 6.4.5f1** or a compatible Unity 6 version through Unity Hub.
 2. Clone or download this repository.
@@ -140,7 +144,7 @@ If you plan to build the project:
 - Choose your target platform, such as Windows or WebGL
 - Build and run the project
 
-## How to Play
+## How to Play 🕹️
 
 | Action | Control |
 | --- | --- |
@@ -153,7 +157,7 @@ If you plan to build the project:
 
 Goal: survive as long as possible, avoid obstacles, and collect as many coins as you can before crashing.
 
-## Screenshots
+## Screenshots 📸
 
 Add your best in-game images here to make the repository more portfolio-ready.
 
@@ -177,7 +181,7 @@ Suggested screenshot set:
 | Gameplay | Player in motion with obstacles and coin pickups |
 | Game over | Failure state with restart or menu UI |
 
-## Future Improvements
+## Future Improvements 🔮
 
 - Add a persistent high score system
 - Introduce increasing difficulty with dynamic obstacle density
@@ -188,7 +192,7 @@ Suggested screenshot set:
 - Save player progress and stats locally
 - Add visual polish with particle effects and camera shake
 
-## Contribution Guidelines
+## Contribution Guidelines 🤝
 
 Contributions are welcome. If you want to improve the project, please:
 
@@ -198,7 +202,7 @@ Contributions are welcome. If you want to improve the project, please:
 4. Test the project in Unity before opening a pull request.
 5. Submit a clear PR description with screenshots or short clips when relevant.
 
-## License
+## License 📄
 
 This repository does not currently include a license file.
 
@@ -206,7 +210,7 @@ If you plan to distribute or reuse this project, add an appropriate open-source 
 
 Adding a license file is recommended before treating the project as fully open source.
 
-## Author
+## Author 👤
 
 - **Muhammad Zeeshan Islam**
 
