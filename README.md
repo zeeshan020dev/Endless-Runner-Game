@@ -198,7 +198,7 @@ If you plan to build the project:
 
 Goal: survive as long as possible, avoid obstacles, and collect as many coins as you can before crashing.
 
-## Gameplay GIF 🎬
+## Gameplay GIF
 
 <p align="center">
 	<img src="assets/gifs/gameplay.gif" alt="Gameplay GIF" width="900" />
@@ -206,7 +206,7 @@ Goal: survive as long as possible, avoid obstacles, and collect as many coins as
 
 > Replace the placeholder GIF with a short gameplay capture for the best GitHub presentation.
 
-## Screenshots 📸
+## Screenshots
 
 Add your best in-game images here to make the repository more portfolio-ready.
 
@@ -230,7 +230,7 @@ Suggested screenshot set:
 | Gameplay | Player in motion with obstacles and coin pickups |
 | Game over | Failure state with restart or menu UI |
 
-## Future Improvements 🔮
+## Future Improvements
 - Add power-ups such as shields, magnet coins, and speed boosts
 - Support mobile touch controls and swipe gestures
 - Expand the obstacle and tile variety
@@ -238,7 +238,7 @@ Suggested screenshot set:
 - Save player progress and stats locally
 - Add visual polish with particle effects and camera shake
 
-## Contribution Guidelines 🤝
+## Contribution Guidelines
 
 
 1. Fork the repository.
@@ -247,7 +247,7 @@ Suggested screenshot set:
 4. Test the project in Unity before opening a pull request.
 5. Submit a clear PR description with screenshots or short clips when relevant.
 
-## License 📄
+## License
 
 This repository does not currently include a license file.
 
@@ -255,7 +255,7 @@ If you plan to distribute or reuse this project, add an appropriate open-source 
 
 Adding a license file is recommended before treating the project as fully open source.
 
-## Author 👤
+## Author
 
 - **Muhammad Zeeshan Islam**
 
