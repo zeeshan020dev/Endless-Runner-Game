@@ -5,12 +5,13 @@
 3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
 
 <p>
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity" />
-  <img alt="C#" src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp" />
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f" />
-  <img alt="URP" src="https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6" />
-  <img alt="Input System" src="https://img.shields.io/badge/Input%20System-Enabled-0ea5e9" />
-  <img alt="Open Source" src="https://img.shields.io/badge/GitHub-Open%20Source-181717?logo=github" />
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-6.4.5f1-000000?style=for-the-badge&logo=unity" />
+	<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+	<img alt="Platform" src="https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f?style=for-the-badge" />
+	<img alt="URP" src="https://img.shields.io/badge/URP-Universal%20Render%20Pipeline-8b5cf6?style=for-the-badge" />
+	<img alt="Stars" src="https://img.shields.io/github/stars/zeeshan020dev/Endless-Runner-Game?style=for-the-badge&logo=github&label=Stars" />
+	<img alt="Forks" src="https://img.shields.io/github/forks/zeeshan020dev/Endless-Runner-Game?style=for-the-badge&logo=github&label=Forks" />
+	<img alt="License" src="https://img.shields.io/github/license/zeeshan020dev/Endless-Runner-Game?style=for-the-badge&logo=github&label=License" />
 </p>
 
 </div>
