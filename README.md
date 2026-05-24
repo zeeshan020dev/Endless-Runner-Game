@@ -212,7 +212,7 @@ You can include a longer gameplay recording directly in the repository and link 
 
 ### Recorded Clip
 
-- [Watch gameplay recording](Recordings/Shot%201.mp4)
+- [Watch gameplay recording](Recordings/Shot-1.mp4)
 
 If you add more recordings later, keep them in the `Recordings/` folder and reference them with relative links like the one above.
 
@@ -222,15 +222,15 @@ Add your best in-game images here to make the repository more portfolio-ready.
 
 ### Main Menu
 
-![Main Menu Screenshot](assets/screenshots/main-menu.png)
+![Main Menu Screenshot](screenshots/main-menu.png)
 
 ### Gameplay
 
-![Gameplay Screenshot](assets/screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ### Game Over
 
-![Game Over Screenshot](assets/screenshots/game-over.png)
+![Game Over Screenshot](screenshots/game-over.png)
 
 Suggested screenshot set:
 
