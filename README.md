@@ -52,7 +52,6 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Gameplay loop | Endless runner with auto-movement, lane swapping, jumping, sliding, and coin pickup |
 | Code structure | Small set of focused scripts with clear responsibilities |
 | UX flow | Start menu, in-game HUD, and game over panel |
-| Audio | Persistent audio manager with music and sound effects |
 | Build readiness | Configured for desktop and WebGL-friendly development |
 
 ## Feature Cards 🚀
@@ -189,7 +188,7 @@ If you plan to build the project:
 
 | Action | Control |
 | --- | --- |
-| Start the game | Left mouse click on the main menu / start screen |
+| Start the game | Left mouse click |
 | Move left | Left Arrow |
 | Move right | Right Arrow |
 | Jump | Up Arrow or Space |
@@ -231,9 +230,6 @@ Suggested screenshot set:
 | Game over | Failure state with restart or menu UI |
 
 ## Future Improvements 🔮
-
-- Add a persistent high score system
-- Introduce increasing difficulty with dynamic obstacle density
 - Add power-ups such as shields, magnet coins, and speed boosts
 - Support mobile touch controls and swipe gestures
 - Expand the obstacle and tile variety
@@ -243,7 +239,6 @@ Suggested screenshot set:
 
 ## Contribution Guidelines 🤝
 
-Contributions are welcome. If you want to improve the project, please:
 
 1. Fork the repository.
 2. Create a feature branch for your changes.
