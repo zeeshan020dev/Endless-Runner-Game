@@ -212,15 +212,15 @@ Add your best in-game images here to make the repository more portfolio-ready.
 
 ### Main Menu
 
-![Main Menu Screenshot](assets/screenshots/main-menu.png)
+![Main Menu Screenshot](screenshots/main-menu.png)
 
 ### Gameplay
 
-![Gameplay Screenshot](assets/screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ### Game Over
 
-![Game Over Screenshot](assets/screenshots/game-over.png)
+![Game Over Screenshot](screenshots/game-over.png)
 
 Suggested screenshot set:
 
