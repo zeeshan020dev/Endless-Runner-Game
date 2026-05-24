@@ -46,7 +46,7 @@
 
 The repository is structured as a lightweight Unity project with clear separation between gameplay scripts, assets, scenes, and project configuration. Core mechanics are handled through a small set of focused scripts, making the project easy to understand, extend, and showcase.
 
-## Repository Highlights
+## Repository Highlights ✨
 
 | Highlight | Details |
 | --- | --- |
@@ -55,7 +55,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | UX flow | Start menu, in-game HUD, and game over panel |
 | Build readiness | Configured for desktop and WebGL-friendly development |
 
-## Feature Cards
+## Feature Cards 🚀
 
 <table>
 	<tr>
@@ -100,7 +100,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 - Persistent audio manager with background music and sound effects
 - UI built with TextMeshPro
 
-## Gameplay Mechanics
+## Gameplay Mechanics 🎮
 
 | Mechanic | Description |
 | --- | --- |
@@ -112,7 +112,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Obstacle collision | Hitting an obstacle ends the run, pauses time, and shows the game over panel. |
 | Endless track | New tiles spawn ahead of the player while older tiles are removed behind the camera. |
 
-## Technologies Used
+## Technologies Used 🛠️
 
 | Category | Stack |
 | --- | --- |
@@ -125,7 +125,7 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Scene Management | Unity SceneManager |
 | Build Targets | PC and WebGL-friendly setup |
 
-## Unity Version Compatibility
+## Unity Version Compatibility 🧩
 
 This project was created and validated with:
 
@@ -137,7 +137,7 @@ Recommended compatibility range:
 - **Best match:** Unity 6.4.x
 - **Likely compatible:** Other Unity 6 LTS / 6000.x builds with the same packages installed
 
-## Folder Structure
+## Folder Structure 📁
 
 | Folder | Purpose |
 | --- | --- |
@@ -156,7 +156,7 @@ Recommended compatibility range:
 | `Packages/` | Package manifest and dependency lock files |
 | `ProjectSettings/` | Unity project configuration files |
 
-## Scripts and Modules
+## Scripts and Modules 🧠
 
 | Script | Responsibility |
 | --- | --- |
@@ -169,7 +169,7 @@ Recommended compatibility range:
 | `CameraController.cs` | Smoothly follows the player along the Z axis |
 | `MainMenu.cs` | Loads the gameplay scene and exits the application |
 
-## Installation and Setup
+## Installation and Setup ⚙️
 
 1. Install **Unity 6.4.5f1** or a compatible Unity 6 version through Unity Hub.
 2. Clone or download this repository.
@@ -185,7 +185,7 @@ If you plan to build the project:
 - Choose your target platform, such as Windows or WebGL
 - Build and run the project
 
-## How to Play
+## How to Play 🕹️
 
 | Action | Control |
 | --- | --- |
@@ -198,7 +198,7 @@ If you plan to build the project:
 
 Goal: survive as long as possible, avoid obstacles, and collect as many coins as you can before crashing.
 
-## Gameplay GIF
+## Gameplay GIF 🎬
 
 <p align="center">
 	<img src="assets/gifs/gameplay.gif" alt="Gameplay GIF" width="900" />
@@ -206,21 +206,31 @@ Goal: survive as long as possible, avoid obstacles, and collect as many coins as
 
 > Replace the placeholder GIF with a short gameplay capture for the best GitHub presentation.
 
-## Screenshots
+## Gameplay Recording 🎥
+
+You can include a longer gameplay recording directly in the repository and link it here for viewers who want to see full gameplay flow.
+
+### Recorded Clip
+
+- [Watch gameplay recording](Recordings/Shot%201.mp4)
+
+If you add more recordings later, keep them in the `Recordings/` folder and reference them with relative links like the one above.
+
+## Screenshots 📸
 
 Add your best in-game images here to make the repository more portfolio-ready.
 
 ### Main Menu
 
-![Main Menu Screenshot](screenshots/main-menu.png)
+![Main Menu Screenshot](assets/screenshots/main-menu.png)
 
 ### Gameplay
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](assets/screenshots/gameplay.png)
 
 ### Game Over
 
-![Game Over Screenshot](screenshots/game-over.png)
+![Game Over Screenshot](assets/screenshots/game-over.png)
 
 Suggested screenshot set:
 
@@ -230,7 +240,7 @@ Suggested screenshot set:
 | Gameplay | Player in motion with obstacles and coin pickups |
 | Game over | Failure state with restart or menu UI |
 
-## Future Improvements
+## Future Improvements 🔮
 - Add power-ups such as shields, magnet coins, and speed boosts
 - Support mobile touch controls and swipe gestures
 - Expand the obstacle and tile variety
@@ -238,7 +248,7 @@ Suggested screenshot set:
 - Save player progress and stats locally
 - Add visual polish with particle effects and camera shake
 
-## Contribution Guidelines
+## Contribution Guidelines 🤝
 
 
 1. Fork the repository.
@@ -247,7 +257,7 @@ Suggested screenshot set:
 4. Test the project in Unity before opening a pull request.
 5. Submit a clear PR description with screenshots or short clips when relevant.
 
-## License
+## License 📄
 
 This repository does not currently include a license file.
 
@@ -255,7 +265,7 @@ If you plan to distribute or reuse this project, add an appropriate open-source 
 
 Adding a license file is recommended before treating the project as fully open source.
 
-## Author
+## Author 👤
 
 - **Muhammad Zeeshan Islam**
 
