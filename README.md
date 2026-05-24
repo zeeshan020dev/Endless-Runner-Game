@@ -1,13 +1,19 @@
+<div align="center">
+
 # Endless Runner Game
 
-<p align="left">
-	<img alt="Unity" src="https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity" />
-	<img alt="C#" src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp" />
-	<img alt="Platform" src="https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f" />
-	<img alt="URP" src="https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6" />
-	<img alt="Input System" src="https://img.shields.io/badge/Input%20System-Enabled-0ea5e9" />
-	<img alt="Open Source" src="https://img.shields.io/badge/GitHub-Open%20Source-181717?logo=github" />
+3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
+
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity" />
+  <img alt="C#" src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp" />
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f" />
+  <img alt="URP" src="https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6" />
+  <img alt="Input System" src="https://img.shields.io/badge/Input%20System-Enabled-0ea5e9" />
+  <img alt="Open Source" src="https://img.shields.io/badge/GitHub-Open%20Source-181717?logo=github" />
 </p>
+
+</div>
 
 > A polished 3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
 
@@ -15,8 +21,9 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Overview](#overview)
 - [Repository Highlights](#repository-highlights)
+- [Feature Cards](#feature-cards)
 - [Features](#features)
 - [Gameplay Mechanics](#gameplay-mechanics)
 - [Technologies Used](#technologies-used)
@@ -25,6 +32,7 @@
 - [Scripts and Modules](#scripts-and-modules)
 - [Installation and Setup](#installation-and-setup)
 - [How to Play](#how-to-play)
+- [Gameplay GIF](#gameplay-gif)
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -47,7 +55,40 @@ The repository is structured as a lightweight Unity project with clear separatio
 | Audio | Persistent audio manager with music and sound effects |
 | Build readiness | Configured for desktop and WebGL-friendly development |
 
-## Features 🚀
+## Feature Cards 🚀
+
+<table>
+	<tr>
+		<td width="33%">
+			<h3 align="center">🏃 Endless Run</h3>
+			<p align="center">Automatic forward movement with increasing speed keeps the run tense and fast-paced.</p>
+		</td>
+		<td width="33%">
+			<h3 align="center">🛣️ Lane Control</h3>
+			<p align="center">Shift left, center, and right to dodge obstacles and stay alive longer.</p>
+		</td>
+		<td width="33%">
+			<h3 align="center">🪙 Coin Collection</h3>
+			<p align="center">Collect pickups to increase your score and reinforce risk-reward routing.</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%">
+			<h3 align="center">🦘 Jump & Slide</h3>
+			<p align="center">Use jump and slide mechanics to clear barriers and low obstacles.</p>
+		</td>
+		<td width="33%">
+			<h3 align="center">🧱 Endless Tiles</h3>
+			<p align="center">Tiles spawn and recycle dynamically so the level feels infinite.</p>
+		</td>
+		<td width="33%">
+			<h3 align="center">🔊 Audio Feedback</h3>
+			<p align="center">Persistent music and effects improve pacing, clarity, and impact.</p>
+		</td>
+	</tr>
+</table>
+
+## Features
 
 - 3D endless runner gameplay with automatic forward motion
 - Lane-based movement across three tracks
@@ -156,6 +197,14 @@ If you plan to build the project:
 | Collect coins | Run through coin pickups |
 
 Goal: survive as long as possible, avoid obstacles, and collect as many coins as you can before crashing.
+
+## Gameplay GIF 🎬
+
+<p align="center">
+	<img src="assets/gifs/gameplay.gif" alt="Gameplay GIF" width="900" />
+</p>
+
+> Replace the placeholder GIF with a short gameplay capture for the best GitHub presentation.
 
 ## Screenshots 📸
 
