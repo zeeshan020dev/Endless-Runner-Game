@@ -1,15 +1,47 @@
 # Endless Runner Game
 
 [![Unity](https://img.shields.io/badge/Unity-6.4.5f1-000000?logo=unity)](https://unity.com/)
+[![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
 [![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-2ea44f)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP-8b5cf6)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.4/manual/index.html)
 [![Input System](https://img.shields.io/badge/Input%20System-Enabled-0ea5e9)](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/index.html)
+[![Repository](https://img.shields.io/badge/Repository-Open%20Source-16a34a)](https://github.com/)
+
+3D endless runner built in Unity with lane switching, jump and slide mechanics, coin collection, and endless tile spawning.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Repository Highlights](#repository-highlights)
+- [Features](#features)
+- [Gameplay Mechanics](#gameplay-mechanics)
+- [Technologies Used](#technologies-used)
+- [Unity Version Compatibility](#unity-version-compatibility)
+- [Folder Structure](#folder-structure)
+- [Scripts and Modules](#scripts-and-modules)
+- [Installation and Setup](#installation-and-setup)
+- [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
+- [Future Improvements](#future-improvements)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Author](#author)
 
 ## Project Overview
 
-**Endless Runner Game** is a 3D endless runner built in Unity where the player stays alive by switching lanes, jumping, and sliding to avoid obstacles while collecting coins. The game features a continuously spawning track, accelerating forward movement, audio feedback, and a simple menu-driven flow that is well suited for a clean portfolio presentation.
+**Endless Runner Game** is a 3D endless runner built in Unity where the player survives by switching lanes, jumping, and sliding to avoid obstacles while collecting coins. The game features a continuously spawning track, accelerating forward movement, audio feedback, and a simple menu-driven flow that is well suited for a clean portfolio presentation.
 
 The repository is structured as a lightweight Unity project with clear separation between gameplay scripts, assets, scenes, and project configuration. Core mechanics are handled through a small set of focused scripts, making the project easy to understand, extend, and showcase.
+
+## Repository Highlights
+
+| Highlight | Details |
+| --- | --- |
+| Gameplay loop | Endless runner with auto-movement, lane swapping, jumping, sliding, and coin pickup |
+| Code structure | Small set of focused scripts with clear responsibilities |
+| UX flow | Start menu, in-game HUD, and game over panel |
+| Audio | Persistent audio manager with music and sound effects |
+| Build readiness | Configured for desktop and WebGL-friendly development |
 
 ## Features
 
@@ -123,7 +155,7 @@ Goal: survive as long as possible, avoid obstacles, and collect as many coins as
 
 ## Screenshots
 
-<!-- Replace these placeholders with actual screenshots from your project. -->
+Add your best in-game images here to make the repository more portfolio-ready.
 
 ### Main Menu
 
@@ -136,6 +168,14 @@ Goal: survive as long as possible, avoid obstacles, and collect as many coins as
 ### Game Over
 
 ![Game Over Screenshot](assets/screenshots/game-over.png)
+
+Suggested screenshot set:
+
+| Shot | Recommended content |
+| --- | --- |
+| Main menu | Title screen, start button, and branding |
+| Gameplay | Player in motion with obstacles and coin pickups |
+| Game over | Failure state with restart or menu UI |
 
 ## Future Improvements
 
@@ -164,6 +204,8 @@ This repository does not currently include a license file.
 
 If you plan to distribute or reuse this project, add an appropriate open-source license such as MIT, Apache 2.0, or GPL, depending on your intended usage.
 
+Adding a license file is recommended before treating the project as fully open source.
+
 ## Author
 
 - **Muhammad Zeeshan Islam**
@@ -172,3 +214,4 @@ If you plan to distribute or reuse this project, add an appropriate open-source 
 
 - The project is built around a small, modular script set, which makes it a good candidate for portfolio demonstrations, gameplay iteration, and future expansion.
 - The scene name referenced by the menu script is `Level`, so make sure that scene exists in the build settings before building the game.
+- The README is intentionally written to work as a GitHub portfolio landing page and can be expanded with badges, GIFs, and gameplay clips.
