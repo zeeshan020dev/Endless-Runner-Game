@@ -198,23 +198,35 @@ If you plan to build the project:
 
 Goal: survive as long as possible, avoid obstacles, and collect as many coins as you can before crashing.
 
-## Gameplay GIF 🎬
+## Gameplay 🎬
+
+### Gameplay GIF Preview
 
 <p align="center">
-	<img src="assets/gifs/gameplay.gif" alt="Gameplay GIF" width="900" />
+	<img src="screenshots/gameplay.gif" alt="Gameplay GIF" width="900" />
 </p>
 
-> Replace the placeholder GIF with a short gameplay capture for the best GitHub presentation.
+> A short GIF preview is used for instant preview on GitHub. It loads faster than video and works everywhere.
 
-## Gameplay Recording 🎥
+---
 
-You can include a longer gameplay recording directly in the repository and link it here for viewers who want to see full gameplay flow.
+## Full Gameplay Recording 🎥
 
-### Recorded Clip
+<p align="center">
+  <a href="Recordings/Shot-1.mp4">
+    <img src="https://img.youtube.com/vi/dummy/maxresdefault.jpg" width="900" alt="Watch Gameplay Video" />
+  </a>
+</p>
 
-- [Watch gameplay recording](Recordings/Shot-1.mp4)
+<p align="center">
+👉 Click the image above to open full gameplay recording
+</p>
 
-If you add more recordings later, keep them in the `Recordings/` folder and reference them with relative links like the one above.
+### Direct File Access
+
+- 📹 [Download / View Gameplay Video](Recordings/Shot-1.mp4)
+
+> If the video does not play in browser, download it and open locally.
 
 ## Screenshots 📸
 
