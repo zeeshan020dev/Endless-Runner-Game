@@ -122,10 +122,6 @@ Assets/
 
 ## 📸 Media & Previews
 
-### Gameplay Flow
-
-### Screenshots
-
 ### 🎥 Full Gameplay Recording
 
 [](https://www.google.com/search?q=Recordings/Shot-1.mp4)
