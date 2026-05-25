@@ -163,3 +163,9 @@ This project currently does not have an explicit open-source license.
 *(If you intend for others to use/modify this code, consider adding an `MIT` or `Apache-2.0` license file to the root directory.)*
 
 ---
+
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
