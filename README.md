@@ -164,7 +164,7 @@ This project currently does not have an explicit open-source license.
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 
-Co-Founder – Unicodrex
+Co-Founder – Unicodrex | Unity Game Developer
 
 <a href="https://github.com/zeeshan020dev">
   <img src="https://img.shields.io/badge/GitHub-zeeshan020dev-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
