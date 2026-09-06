@@ -24,6 +24,7 @@
 
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Screenshots](#screenshots)
 - [Gameplay Mechanics & Controls](#gameplay-mechanics--controls)
 - [Tech Stack & Environment](#tech-stack--environment)
 - [Project Architecture](#project-architecture)
@@ -53,6 +54,37 @@ Built with the **Universal Render Pipeline (URP)**, this project features robust
 | **📈 Progressive Difficulty** | Automatic forward movement with a gradual speed acceleration cap to increase tension. |
 | **🪙 Risk/Reward Economy** | Collectible coins strategically placed to challenge player routing and increase scores. |
 | **🔊 Immersive Audio** | Persistent singleton-based audio manager for seamless BGM and distinct SFX. |
+
+---
+
+## Screenshots
+
+### Gameplay
+
+<p align="center">
+  <img src="./docs/screenshots/gameplay.png" alt="Endless Runner Gameplay" width="900"/>
+</p>
+
+<p align="center">
+  Navigate the dynamically generated track, avoid obstacles, switch lanes, and collect coins as the game speed increases.
+</p>
+
+### Main Menu & Game Over
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./docs/screenshots/main-menu.png" alt="Endless Runner Main Menu" width="100%"/>
+      <br />
+      <b>Main Menu</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="./docs/screenshots/game-over.png" alt="Endless Runner Game Over Screen" width="100%"/>
+      <br />
+      <b>Game Over Screen</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
