@@ -20,6 +20,21 @@
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Gameplay Mechanics & Controls](#gameplay-mechanics--controls)
+- [Tech Stack & Environment](#tech-stack--environment)
+- [Project Architecture](#project-architecture)
+- [Getting Started](#getting-started)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+
+---
+
 ## Overview
 
 **Endless Runner Game** is a lightweight, highly modular 3D endless runner designed to showcase clean code architecture and core gameplay loops in Unity. Players must navigate a continuously spawning, accelerating track utilizing a three-lane movement system. 
