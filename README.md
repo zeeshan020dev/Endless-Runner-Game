@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏃‍♂️ Endless Runner Game
+# Endless Runner Game
 
 *A high-octane 3D endless runner built in Unity. Survive the track by switching lanes, sliding under barriers, and leaping over obstacles while collecting coins in a dynamically generated world.*
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Endless Runner Game** is a lightweight, highly modular 3D endless runner designed to showcase clean code architecture and core gameplay loops in Unity. Players must navigate a continuously spawning, accelerating track utilizing a three-lane movement system. 
 
@@ -28,7 +28,7 @@ Built with the **Universal Render Pipeline (URP)**, this project features robust
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Built with the **Universal Render Pipeline (URP)**, this project features robust
 
 ---
 
-## 🎮 Gameplay Mechanics & Controls
+## Gameplay Mechanics & Controls
 
 | Action | Control Input | System Response |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ Built with the **Universal Render Pipeline (URP)**, this project features robust
 
 ---
 
-## 🛠️ Tech Stack & Environment
+## Tech Stack & Environment
 
 - **Game Engine:** Unity 6.4.5f1 (6000.4.5f1 LTS recommended)
 - **Render Pipeline:** Universal Render Pipeline (URP)
@@ -64,7 +64,7 @@ Built with the **Universal Render Pipeline (URP)**, this project features robust
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The codebase is structured for readability, making it highly extensible for future mechanics (like power-ups or enemies).
 
@@ -91,7 +91,7 @@ Assets/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -118,7 +118,7 @@ Assets/
 
 ---
 
-## 🔮 Roadmap
+## Roadmap
 
 * [ ] **Power-up System:** Invincibility shields, coin magnets, and score multipliers.
 * [ ] **Mobile Optimization:** Implement touch/swipe gesture controls for iOS/Android builds.
@@ -128,7 +128,7 @@ Assets/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are highly encouraged! This is a great project for learning Unity mechanics.
 
@@ -140,14 +140,14 @@ Contributions, issues, and feature requests are highly encouraged! This is a gre
 
 ---
 
-## 📄 License
+## License
 
 This project currently does not have an explicit open-source license.
 *(If you intend for others to use/modify this code, consider adding an `MIT` or `Apache-2.0` license file to the root directory.)*
 
 ---
 
-## ✍️ Author
+## Author
 
 Click the box below to visit the author's GitHub profile and explore more projects, open-source work, and contributions.
 
