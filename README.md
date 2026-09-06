@@ -120,17 +120,6 @@ Assets/
 
 ---
 
-## 📸 Media & Previews
-
-### 🎥 Full Gameplay Recording
-
-[](https://www.google.com/search?q=Recordings/Shot-1.mp4)
-*Click the image above to view the raw gameplay recording, or [download it here](https://www.google.com/search?q=Recordings/Shot-1.mp4).*
-
-*(Note: For the best GitHub experience, consider uploading your recording to YouTube and replacing `YOUR_YOUTUBE_VIDEO_ID` in the image URL above, linking directly to the video).*
-
----
-
 ## 🔮 Roadmap
 
 * [ ] **Power-up System:** Invincibility shields, coin magnets, and score multipliers.
@@ -160,12 +149,23 @@ This project currently does not have an explicit open-source license.
 
 ---
 
-## 👤 Author
+## ✍️ Author
 
-**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Click the box below to visit the author's GitHub profile and explore more projects, open-source work, and contributions.
 
-Co-Founder – Unicodrex | Unity Game Developer | Mentored 200+ Students
-
-<a href="https://github.com/zeeshan020dev">
-  <img src="https://img.shields.io/badge/GitHub-zeeshan020dev-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="220px">
+        <a href="https://github.com/zeeshan020dev">
+          <img src="https://github.com/zeeshan020dev.png?size=100" width="100px;" alt="Muhammad Zeeshan Islam"/>
+          <br />
+          <sub><b>Muhammad&nbsp;Zeeshan&nbsp;Islam</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/zeeshan020dev" title="GitHub Profile">💻</a>
+        <a href="https://github.com/zeeshan020dev" title="Documentation">📖</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
