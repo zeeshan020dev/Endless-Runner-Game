@@ -16,8 +16,6 @@
 	<img alt="License" src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge&logo=github" /> <!-- Update if different -->
 </p>
 
-[Gameplay Video](#-media--previews) • [Installation](#-getting-started) • [Architecture](#-project-architecture) • [Contributing](#-contributing)
-
 </div>
 
 ---
